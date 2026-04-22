@@ -1,0 +1,18 @@
+{
+  "name": "npmproject",
+  "version": "1.0.0",
+  "description": "My description",
+  "license": "ISC",
+  "author": "Kirsten Markley",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
